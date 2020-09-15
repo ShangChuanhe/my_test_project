@@ -1,5 +1,30 @@
 #include <mockturtle/mockturtle.hpp>
-#include <stdio.h>
+#include <alice/alice.hpp>
+#include "store.hpp"
+
+//#include <stdio.h>
+
+/*
+namespace alice
+{
+
+
+}
+*/
+ALICE_MAIN(main)
+
+
+
+
+
+
+
+
+
+
+
+
+/*
 int main(int argc, char** argv)
 {
     double a = 49.0; 
@@ -10,3 +35,4 @@ int main(int argc, char** argv)
     printf("sqrt result:%f\n",b);
     return 0;
 }
+*/
