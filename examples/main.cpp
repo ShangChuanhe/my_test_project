@@ -1,3 +1,9 @@
+/*
+	    Welcome to my world!!
+	         Just do it
+                       ------------The final right of interpretation belongs to Mr. Shang
+*/
+
 #include <mockturtle/mockturtle.hpp>
 #include <alice/alice.hpp>
 #include "store.hpp"
